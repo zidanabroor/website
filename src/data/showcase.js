@@ -442,5 +442,11 @@ export default [
         summary: "Tired of not knowing if an anime is over? Frustrated by the lack of closure? Find your answer here!",
         imageUrl: "https://i.imgur.com/OJghrUX.png",
         url: "https://istheanimefinished.com/"
+    },
+    {
+        title: "North Anime & Manga List",
+        summary: "NorthAnimeList - Track, Discover, Share Anime & Manga",
+        imageUrl: "https://northanimelist.vercel.app/logo.png",
+        url: "https://northanimelist.vercel.app/"
     }
 ]
